@@ -1,0 +1,43 @@
+header {
+    background: rgba(19, 44, 39, 0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+  
+  nav {
+    float: left;
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav ul li:hover {
+    background: #eca023;
+  }
+  .ParrafoPosicion{
+    float: left;
+    font-family: "Bodoni MT";
+    color: rgb(175, 240, 54);
+    font-size: 20px;
+  }
+  .imagenIzquierda{
+    float: left;
+  }
+  .fontMayor{
+    float: ;
+    color: rgb(22, 22, 75);
+  }
